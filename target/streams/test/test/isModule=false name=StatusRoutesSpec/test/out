@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mStatusRoutesSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mStatusRoutes[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should return status (GET /status) *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  404 Not Found did not equal 200 OK (HelloWorld2Spec.scala:11)[0m[0m

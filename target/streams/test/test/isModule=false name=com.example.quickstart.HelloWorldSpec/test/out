@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0mHelloWorldSpec[0m
+[0m[[0m[0minfo[0m] [0m[0mHelloWorld[0m
+[0m[[0m[31merror[0m] [0m[0m  [33mx[0m return 200[0m
+[0m[[0m[31merror[0m] [0m[0m   404 Not Found != 200 OK (HelloWorldSpec.scala:25)[0m
+[0m[[0m[31merror[0m] [0m[0m  [33mx[0m return hello world[0m
+[0m[[0m[31merror[0m] [0m[0m   'Not found' != '{"message":"Hello, world"}' (HelloWorldSpec.scala:28)[0m
+[0m[[0m[31merror[0m] [0m[0mActual:   Not found[0m
+[0m[[0m[31merror[0m] [0m[0mExpected: {"message":"Hello, world"}[0m
+[0m[[0m[0minfo[0m] [0m[0mTotal for specification HelloWorldSpec[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mFinished in 149 ms[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36m[0m[36m2 examples, 2 failures, 0 error[0m[0m
